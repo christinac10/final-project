@@ -1,0 +1,77 @@
+
+.navbar-brand {
+    font-family: 'Cormorant SC', serif; 
+    font-size: 2rem;
+}
+
+.nav-link {
+    font-family: 'Cormorant SC', serif;
+}
+
+
+#AboutMe {
+    padding: 1.5% 15%;
+    background-color: #dceed6
+}
+
+h2 {
+    font-family: 'Waterfall', cursive;
+    font-size: 3.4rem;
+}
+
+.link{
+    color: #000000;
+    cursor: grab;
+}
+
+.link:hover{
+    color: #fff;
+}
+
+.space-AboutMe {
+    padding: 5%;
+}
+
+#Projects {
+    padding: 1% 4%;
+    background-color: #d5ebe5
+}
+
+#Project2 {
+    padding: 1% 4%;
+    text-align: center;
+    background-color: #dceed6
+}
+
+#Project3 {
+    padding: 1% 4%;
+    background-color: #d5ebe5
+}
+
+.project-image {
+    margin: 90px 0px;
+    width: 100%;
+    border-radius: 4%;
+}
+
+.project2-image {
+    margin: 25px 0px;
+    width: 45%;
+    border-radius: 10%;
+}
+
+.project3-image {
+    margin: 100px 0px;
+    width: 100%;
+    border-radius: 4%;
+}
+
+.space {
+    padding: 4%;
+}
+
+p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    line-height: 2;
+}
